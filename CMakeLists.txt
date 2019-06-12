@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.6.4 FATAL_ERROR)
 
-project(interfaz2.1)
+project(gui_nao)
 
 find_package(qibuild)
 
